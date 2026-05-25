@@ -1,0 +1,6 @@
+hello world
+I am Taku
+this is a flink test tutorial
+some test words unknown
+hello flink
+hello spark
